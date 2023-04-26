@@ -1,2 +1,2 @@
 # Foodie
-#Eat, explore, and enjoy with FOODIE.
+# Eat, explore, and enjoy with FOODIE.
